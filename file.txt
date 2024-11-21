@@ -1,0 +1,4 @@
+
+working in banking domain project
+
+to pushig files using git bash
